@@ -2,6 +2,8 @@
 
 # Sales Data Analysis and Behavioral Insights
 
+## Video Presentation: Click on this Link : https://drive.google.com/file/d/1C106oSp60fnWf133dz47xEEt5rtirxRf/view?usp=sharing
+
 ## Objectives
 
 The project aims to answer the following questions:
